@@ -1,0 +1,4 @@
+torch>=1.12
+transformers>=4.21
+sentence-transformers>=2.2.0
+tqdm
